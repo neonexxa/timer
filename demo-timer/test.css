@@ -13,6 +13,12 @@ h1{
   font-size: 40px;
   margin: 40px 0px 20px;
 }
+h5{
+  color: #fbec0a;
+  font-weight: 900;
+  font-size: 30px;
+  margin: 40px 0px 20px;
+}
 
 #clockdiv{
 	font-family: sans-serif;
